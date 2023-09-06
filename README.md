@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @navinkumarboddu
 - 👀 I’m interested in learning new technologies and experminting them
 - 🌱 I’m currently learning Quarkus and Data Structures & Algo
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me @ Linkedin url --- [Navinkumar Boddu](https://in.linkedin.com/in/navinkumarboddu)
 
 <!---
