@@ -9,5 +9,6 @@ navinkumarboddu/navinkumarboddu is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-![Navinkumar's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=navinkumarboddu&show_icons=true&theme=vue)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=navinkumarboddu&layout=compact)
+![navinkumarboddu's Stats](https://github-readme-stats.vercel.app/api?username=navinkumarboddu&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+![navinkumarboddu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navinkumarboddu&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+![navinkumarboddu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=navinkumarboddu&theme=dracula&hide_border=false)
